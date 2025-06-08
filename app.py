@@ -40,7 +40,7 @@ Also if the users says they dont understand a certain topic from the web page, a
 """
 
 st.set_page_config(page_title="Chat with Website", page_icon="🔗")
-st.title("Chat with Websites")
+st.title("QUICK DOCS")
 
 with st.sidebar:
     st.header("Settings")
